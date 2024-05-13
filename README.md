@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sparky-turned-Coder
+- 👋 Hi, I’m Chris.
 - 👀 I’m interested in electrical theory and web development.
 - 🌱 I’m currently learning javascript and account management.
 - 📫 How to reach me? cjjones989@gmail.com
