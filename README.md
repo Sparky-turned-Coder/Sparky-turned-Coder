@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chris.
 - 👀 I’m interested in electrical theory and web development.
 - 🌱 I’m currently learning javascript and account management.
-- 📫 How to reach me? cjjones989@gmail.com
+- 📫 How to reach me? chrisjones5452@outlook.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've been a blue collar electrician for over 10 years, and my hobbies are reading and writing fiction, coding, and fishing.
 
