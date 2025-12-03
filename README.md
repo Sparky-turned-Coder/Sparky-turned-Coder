@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chris.
 - 👀 I’m interested in electricity and programming. 
-- 🌱 I’m currently making games in Scratch, and meandering aimlessly around in C, the Lord's language.
+- 🌱 I’m currently learning python through CS50P and personal projects.
 - 📫 How to reach me? chrisjones5452@outlook.com
 - ⚡ Fun fact: I've been an electrician for over 10 years, and my hobbies are reading, programming, and gamedev.
 
